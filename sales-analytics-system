@@ -1,0 +1,16 @@
+sales-analytics-system/
+│
+├── main.py
+├── README.md
+├── requirements.txt
+│
+├── data/
+│   └── sales_data.txt
+│
+├── output/
+│
+└── utils/
+    ├── __init__.py
+    ├── file_handler.py
+    ├── data_processor.py
+    └── api_handler.py
