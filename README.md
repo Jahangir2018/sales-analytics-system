@@ -8,4 +8,3 @@ This project is a Python-based Sales Data Analytics System that:
 - Enriches sales data with product metadata
 - Generates a comprehensive business report
 
-## Project Structure
